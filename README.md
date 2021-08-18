@@ -4,3 +4,4 @@ This Repository is made for learning Deep learning
 2) One Layer Logic
 3) Single Layer Batch
 4.1) Multiple Layer Batch(Array method)
+4.2) Multiple Layer Batch(Object Oriented Method)

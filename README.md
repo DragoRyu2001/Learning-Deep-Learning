@@ -5,3 +5,4 @@ This Repository is made for learning Deep learning
 3) Single Layer Batch
 4.1) Multiple Layer Batch(Array method)
 4.2) Multiple Layer Batch(Object Oriented Method)
+5) Recitified Linear Activation Function
